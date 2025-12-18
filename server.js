@@ -8,7 +8,7 @@ const app = express();
 
 const cors = require("cors");
 
-const cors = require("cors");
+
 
 /* ===== CORS FIX (DO NOT CHANGE) ===== */
 app.use((req, res, next) => {
