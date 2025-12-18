@@ -1,7 +1,7 @@
 const express = require("express");
 const fs = require("fs");
 const bcrypt = require("bcrypt");
-const cors = require("cors");
+
 const path = require("path");
 
 const app = express();
