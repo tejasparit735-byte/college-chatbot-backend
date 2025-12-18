@@ -1,0 +1,123 @@
+{
+  "students": [
+    {
+      "id": 1765864104929,
+      "name": "Tejas Parit",
+      "email": "Tejasparit211@gmail.com",
+      "password": "$2b$10$Tq3JAG1zTgOmRrXzS0wEp.hWk05yRo26B4GZMN0KD2iRuUsi6LlBe",
+      "percentage": "90.80"
+    }
+  ],
+  "colleges": [
+    {
+      "id": 1,
+      "name": "DKTE",
+      "info": "",
+      "location": "Ichalkaranji, Kolhapur",
+      "website": "https://www.dkte.ac.in",
+      "cutoff": 85,
+      "staff": [
+        {
+          "name": "Dr. A. Patil",
+          "role": "Principal"
+        },
+        {
+          "name": "Prof. S. Kulkarni",
+          "role": "HOD – Mechanical"
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Canteen",
+        "Bus",
+        "Laboratory"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sharad Institute of Technology College of Engineering",
+      "info": "Engineering college with strong placement support and industry-oriented curriculum.",
+      "location": "Yadrav, Ichalkaranji",
+      "website": "https://www.sitcoe.ac.in",
+      "cutoff": 75,
+      "staff": [
+        {
+          "name": "Dr. R. Deshmukh",
+          "role": "Dean Academics"
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Canteen",
+        "Bus"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sharad Institute of Technology Polytechnic",
+      "info": "Well-known diploma institute offering technical education after 10th.",
+      "location": "Ichalkaranji",
+      "website": "https://www.sitpolytechnic.ac.in",
+      "cutoff": 60,
+      "staff": [],
+      "facilities": [
+        "Library",
+        "Workshop",
+        "Canteen"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Shri Venkatesh Mahavidyalaya",
+      "info": "Arts, Commerce and Management college affiliated to Shivaji University.",
+      "location": "Ichalkaranji",
+      "website": "https://www.venkateshcollege.com",
+      "cutoff": 65,
+      "staff": [],
+      "facilities": [
+        "Library",
+        "Sports"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "DKASC – Arts, Science & Commerce College",
+      "info": "Multi-disciplinary college offering UG and PG programs.",
+      "location": "Ichalkaranji",
+      "website": "https://www.dkasc.ac.in",
+      "cutoff": 70,
+      "staff": [],
+      "facilities": [
+        "Library",
+        "Laboratory",
+        "Canteen"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Smt. Akkatai Ramgonda Patil Kanya Mahavidyalaya",
+      "info": "Women’s college focusing on arts and commerce education.",
+      "location": "Ichalkaranji",
+      "website": "",
+      "cutoff": 55,
+      "staff": [],
+      "facilities": [
+        "Library"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Night College of Arts & Commerce",
+      "info": "College designed for working students with evening schedules.",
+      "location": "Ichalkaranji",
+      "website": "",
+      "cutoff": 50,
+      "staff": [],
+      "facilities": [
+        "Library"
+      ]
+    }
+  ]
+}
